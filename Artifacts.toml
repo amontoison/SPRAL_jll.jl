@@ -1,0 +1,10 @@
+[[SPRAL]]
+arch = "x86_64"
+git-tree-sha1 = "16bb654bb1356fac13e41c96255029f3a884618c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SPRAL.download]]
+    sha256 = "c57a05d25118cc5ac20911dcc28d1105ca54bc7cd6de1799c83de69b154e0a9c"
+    url = "https://github.com/amontoison/SPRAL_jll.jl/releases/download/SPRAL-v2024.1.18+1/SPRAL.v2024.1.18.x86_64-linux-gnu-libgfortran5.tar.gz"
